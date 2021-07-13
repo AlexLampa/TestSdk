@@ -4,7 +4,7 @@ import com.test1307.alexlibrary.TestClass1;
 
 public class Hello {
 
-    private void metohd() {
+    public void metohd() {
         TestClass1.Companion.showLogs("ewreweeeeeeeeeeeeeeeeeeeeeeeee");
     }
 
